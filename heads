@@ -1,0 +1,25 @@
+    Weapon
+    Max Damage 
+    Min Damage 
+    Drop-off Start 
+    Drop-off End 
+    Firerate 
+    Muzzle Velocty 
+    Bullet Drop 
+    Mag Size 
+    Projectile 
+    Reload (Empty) 
+    Reload (Left) 
+    Ads-Recoil Up 
+    Ads-Recoil Left 
+    Ads-Recoil Right 
+    Ads-Recoil Decrease 
+    Ads-1st Shot Multiplier 
+    Spread FSM Aim 
+    Spread FSM Hip 
+    Spread Increase 
+    Spread Decrease 
+    ADS - Not Moving 
+    ADS - Moving 
+    Hip-Standing-Not Moving 
+    Hip-Standing-Moving
