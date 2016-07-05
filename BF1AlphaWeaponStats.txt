@@ -1,0 +1,405 @@
+Lewis Gun
+
+    Max Damage = 21
+    Min Damage = 15
+    Drop-off Start = 20m
+    Drop-off End = 35m
+    Firerate = 480
+    Muzzle Velocty = 740m/s
+    Bullet Drop = -12m/s
+    Mag Size = 47
+    Projectile = British303_Heavy
+    Reload (Empty) = 4.5s
+    Reload (Left) = 3.0s
+    Ads-Recoil Up = 0.28
+    Ads-Recoil Left = 0.2
+    Ads-Recoil Right = 0.2
+    Ads-Recoil Decrease = 6.0
+    Ads-1st Shot Multiplier = 1.5
+    Spread FSM Aim = -6.0
+    Spread FSM Hip = -9.0
+    Spread Increase = -0.18
+    Spread Decrease = 8.12
+    ADS - Not Moving = 0.27
+    ADS - Moving = 0.73
+    Hip-Standing-Not Moving = 2.0
+    Hip-Standing-Moving = 2.5
+
+M1909 Benet Merice
+
+    Max Damage = 21
+    Min Damage = 19
+    Drop-off Start = 20m
+    Drop-off End = 25m
+    Firerate = 450
+    Muzzle Velocty = 820m/s
+    Bullet Drop = -12m/s
+    Mag Size = 30
+    Projectile = 30-06_Heavy
+    Reload (Empty) = 3.9s
+    Reload (Left) = 2.6s
+    Ads-Recoil Up = 0.3
+    Ads-Recoil Left = 0.15
+    Ads-Recoil Right = 0.15
+    Ads-Recoil Decrease = 6
+    Ads-1st Shot Multiplier = 1.125
+    Spread FSM Aim = -6.0
+    Spread FSM Hip = -9.0
+    Spread Increase = -0.18
+    Spread Decrease = 8.2
+    ADS - Not Moving = 0.27
+    ADS - Moving = 0.73
+    Hip-Standing-Not Moving = 2.0
+    Hip-Standing-Moving = 2.5
+
+Madsen Machine Gun
+
+    Max Damage = 23
+    Min Damage = 17.5
+    Drop-off Start = 15m
+    Drop-off End = 28.75m
+    Firerate = 540
+    Muzzle Velocty = 800m/s
+    Bullet Drop = -12m/s
+    Mag Size = 31
+    Projectile = Bullet792x57mm
+    Reload (Empty) = 4.0s
+    Reload (Left) = 2.45s
+    Ads-Recoil Up = 0.42
+    Ads-Recoil Left = 0.3
+    Ads-Recoil Right = 0.3
+    Ads-Recoil Decrease = 6
+    Ads-1st Shot Multiplier = 1.9
+    Spread FSM Aim = -5.0
+    Spread FSM Hip = -7.5
+    Spread Increase = -0.18
+    Spread Decrease = 4.5
+    ADS - Not Moving = 0.3
+    ADS - Moving = 0.5
+    Hip-Standing-Not Moving = 1.5
+    Hip-Standing-Moving = 2.0
+
+Cei-Rigotti
+
+    Max Damage = 38
+    Min Damage = 26.5
+    Drop-off Start = 24m
+    Drop-off End = 47m
+    Firerate = 299
+    Muzzle Velocty = 660m/s
+    Bullet Drop = -12m/s
+    Mag Size = 10
+    Projectile = Carcano65x52mm_Semi
+    Reload (Empty) = 1.5s
+    Reload (Left) = 0.5s
+    Ads-Recoil Up = 0.7
+    Ads-Recoil Left = 0.32
+    Ads-Recoil Right = 0.32
+    Ads-Recoil Decrease = 10
+    Ads-1st Shot Multiplier = 1.0
+    Spread FSM Aim = 1.0
+    Spread FSM Hip = 1.0
+    Spread Increase = 0.3
+    Spread Decrease = 4.5
+    ADS - Not Moving = 0.24
+    ADS - Moving = 0.8
+    Hip-Standing-Not Moving = 2.0
+    Hip-Standing-Moving = 2.5
+
+M1907
+
+    Max Damage = 43
+    Min Damage = 21
+    Drop-off Start = 10m
+    Drop-off End = 37.5m
+    Firerate = 299
+    Muzzle Velocty = 570m/s
+    Bullet Drop = -12m/s
+    Mag Size = 21
+    Projectile = 351M1907_Semi
+    Reload (Empty) = 3.5s
+    Reload (Left) = 2.3s
+    Ads-Recoil Up = 0.8
+    Ads-Recoil Left = 0.42
+    Ads-Recoil Right = 0.42
+    Ads-Recoil Decrease = 10
+    Ads-1st Shot Multiplier = 1.0
+    Spread FSM Aim = 1.0
+    Spread FSM Hip = 1.0
+    Spread Increase = 0.3
+    Spread Decrease = 4.5
+    ADS - Not Moving = 0.27
+    ADS - Moving = 0.7
+    Hip-Standing-Not Moving = 2.0
+    Hip-Standing-Moving = 2.5
+
+Mondragon
+
+    Max Damage = 40
+    Min Damage = 35
+    Drop-off Start = 20m
+    Drop-off End = 30m
+    Firerate = 257
+    Muzzle Velocty = 800m/s
+    Bullet Drop = -12m/s
+    Mag Size = 10
+    Projectile = Bullet792x57mm_SemiHeavy
+    Reload (Empty) = 1.13333s
+    Reload (Left) = 0.5333333s
+    Ads-Recoil Up = 1.0
+    Ads-Recoil Left = 0.32
+    Ads-Recoil Right = 0.32
+    Ads-Recoil Decrease = 10
+    Ads-1st Shot Multiplier = 1.0
+    Spread FSM Aim = 1.0
+    Spread FSM Hip = 1.0
+    Spread Increase = 0.3
+    Spread Decrease = 4.5
+    ADS - Not Moving = 0.21
+    ADS - Moving = 0.9
+    Hip-Standing-Not Moving = 2.3
+    Hip-Standing-Moving = 3.5
+
+Model_10A
+
+    Max Damage = 8.4
+    Min Damage = 4.2
+    Drop-off Start = 14m
+    Drop-off End = 22m
+    Firerate = 900
+    Muzzle Velocty = 333m/s
+    Bullet Drop = -12m/s
+    Mag Size = 6
+    Projectile = 12g_Buckshot_Pump
+    Reload (Empty) = 0.5s
+    Reload (Left) = -1.0s
+    Ads-Recoil Up = 11.0
+    Ads-Recoil Left = 0.8
+    Ads-Recoil Right = 1.2
+    Ads-Recoil Decrease = 10
+    Ads-1st Shot Multiplier = 1.0
+    Spread FSM Aim = 1.0
+    Spread FSM Hip = 1.0
+    Spread Increase = 0.6
+    Spread Decrease = 4.5
+    ADS - Not Moving = 0.0
+    ADS - Moving = 0.4
+    Hip-Standing-Not Moving = 0.4
+    Hip-Standing-Moving = 0.6
+
+M1911
+
+    Max Damage = 35
+    Min Damage = 15
+    Drop-off Start = 8m
+    Drop-off End = 30m
+    Firerate = 299
+    Muzzle Velocty = 250m/s
+    Bullet Drop = -12m/s
+    Mag Size = 8
+    Projectile = 45cal_Pistol
+    Reload (Empty) = 1.7s
+    Reload (Left) = 1.16s
+    Ads-Recoil Up = 0.9
+    Ads-Recoil Left = 0.425
+    Ads-Recoil Right = 0.45
+    Ads-Recoil Decrease = 10
+    Ads-1st Shot Multiplier = 1.0
+    Spread FSM Aim = 1.0
+    Spread FSM Hip = 1.0
+    Spread Increase = 0.3
+    Spread Decrease = 4.5
+    ADS - Not Moving = 0.4
+    ADS - Moving = 0.5
+    Hip-Standing-Not Moving = 0.8
+    Hip-Standing-Moving = 1.2
+
+P08_Pistol
+
+    Max Damage = 30
+    Min Damage = 15
+    Drop-off Start = 10m
+    Drop-off End = 30m
+    Firerate = 299
+    Muzzle Velocty = 350m/s
+    Bullet Drop = -12m/s
+    Mag Size = 9
+    Projectile = 9x19mm_Pistol
+    Reload (Empty) = 2.0s
+    Reload (Left) = 1.25s
+    Ads-Recoil Up = 0.9
+    Ads-Recoil Left = 0.45
+    Ads-Recoil Right = 0.45
+    Ads-Recoil Decrease = 10
+    Ads-1st Shot Multiplier = 1.0
+    Spread FSM Aim = 1.0
+    Spread FSM Hip = 1.0
+    Spread Increase = 0.15
+    Spread Decrease = 0.45
+    ADS - Not Moving = 0.4
+    ADS - Moving = 0.5
+    Hip-Standing-Not Moving = 0.8
+    Hip-Standing-Moving = 1.2
+
+Gewehr98
+
+    Max Damage = 100
+    Min Damage = 80
+    Drop-off Start = 20m
+    Drop-off End = 125m
+    Firerate = 350
+    Muzzle Velocty = 880m/s
+    Bullet Drop = -12m/s
+    Mag Size = 5
+    Projectile = Bullet792x57mm_Bolt
+    Reload (Empty) = 1.5s
+    Reload (Left) = 0.85s
+    Ads-Recoil Up = 5
+    Ads-Recoil Left = 0.0
+    Ads-Recoil Right = 1.0
+    Ads-Recoil Decrease = 10.0
+    Ads-1st Shot Multiplier = 1.0
+    Spread FSM Aim = 1.0
+    Spread FSM Hip = 1.0
+    Spread Increase = 1.0
+    Spread Decrease = 7.5
+    ADS - Not Moving = 0.0
+    ADS - Moving = 1.1
+    Hip-Standing-Not Moving = 2.5
+    Hip-Standing-Moving = 4.0
+
+Lee-Enfield SMLE
+
+    Max Damage = 100
+    Min Damage = 80
+    Drop-off Start = 20m
+    Drop-off End = 75m
+    Firerate = 350
+    Muzzle Velocty = 740m/s
+    Bullet Drop = -12m/s
+    Mag Size = 10
+    Projectile = British303_Bolt
+    Reload (Empty) = 1.7666667s
+    Reload (Left) = 0.5s
+    Ads-Recoil Up = 5.0
+    Ads-Recoil Left = 0.0
+    Ads-Recoil Right = 1.0
+    Ads-Recoil Decrease = 10.0
+    Ads-1st Shot Multiplier = 1.0
+    Spread FSM Aim = 1.0
+    Spread FSM Hip = 1.0
+    Spread Increase = 1.0
+    Spread Decrease = 7.5
+    ADS - Not Moving = 0.0
+    ADS - Moving = 0.9
+    Hip-Standing-Not Moving = 2.5
+    Hip-Standing-Moving = 4.0
+
+Winchester 1895
+
+    Max Damage = 75
+    Min Damage = 35
+    Drop-off Start = 8m
+    Drop-off End = 32m
+    Firerate = 350
+    Muzzle Velocty = 580m/s
+    Bullet Drop = -12m/s
+    Mag Size = 5
+    Projectile = 30-40 Krag
+    Reload (Empty) = 1.5666667s
+    Reload (Left) = 0.53s
+    Ads-Recoil Up = 5
+    Ads-Recoil Left = 0.0
+    Ads-Recoil Right = 1.0
+    Ads-Recoil Decrease = 10
+    Ads-1st Shot Multiplier = 1.0
+    Spread FSM Aim = 1.0
+    Spread FSM Hip = 1.0
+    Spread Increase = 1.0
+    Spread Decrease = 7.5
+    ADS - Not Moving = 0.0
+    ADS - Moving = 1.0
+    Hip-Standing-Not Moving = 2.5
+    Hip-Standing-Moving = 4.0
+
+Automatico M1918
+
+    Max Damage = 23
+    Min Damage = 12
+    Drop-off Start = 3m
+    Drop-off End = 38m
+    Firerate = 900
+    Muzzle Velocty = 380m/s
+    Bullet Drop = -12m/s
+    Mag Size = 25
+    Projectile = 9x19mm_Gilsenti
+    Reload (Empty) = 3.4s
+    Reload (Left) = 1.8s
+    Ads-Recoil Up = 0.44
+    Ads-Recoil Left = 0.425
+    Ads-Recoil Right = 0.425
+    Ads-Recoil Decrease = 10.0
+    Ads-1st Shot Multiplier = 2.65
+    Spread FSM Aim = 5.0
+    Spread FSM Hip = 5.0
+    Spread Increase = 0.054
+    Spread Decrease = 1.35
+    ADS - Not Moving = 0.3
+    ADS - Moving = 0.5
+    Hip-Standing-Not Moving = 1.0
+    Hip-Standing-Moving = 1.5
+
+MP18
+
+    Max Damage = 23.0
+    Min Damage = 13.5
+    Drop-off Start = 15m
+    Drop-off End = 38.75m
+    Firerate = 550
+    Muzzle Velocty = 420m/s
+    Bullet Drop = -12m/s
+    Mag Size = 32
+    Projectile = 9x19mm_SMG
+    Reload (Empty) = 3.3s
+    Reload (Left) = 2.1s
+    Ads-Recoil Up = 0.38
+    Ads-Recoil Left = 0.2
+    Ads-Recoil Right = 0.2
+    Ads-Recoil Decrease = 8.0
+    Ads-1st Shot Multiplier = 2.1
+    Spread FSM Aim = 5.0
+    Spread FSM Hip = 5.0
+    Spread Increase = 0.0365
+    Spread Decrease = 1.825
+    ADS - Not Moving = 0.3
+    ADS - Moving = 0.5
+    Hip-Standing-Not Moving = 1.0
+    Hip-Standing-Moving = 1.5
+
+Mauser C96
+
+    Max Damage = 27
+    Min Damage = 15.4
+    Drop-off Start = 16.6m
+    Drop-off End = 40m
+    Firerate = 299
+    Muzzle Velocty = 460m/s
+    Bullet Drop = -12m/s
+    Mag Size = 20
+    Projectile = Bullet763x25mm_Carbine
+    Reload (Empty) = 1.3666667s
+    Reload (Left) = 0.5s
+    Ads-Recoil Up = 0.4
+    Ads-Recoil Left = 0.18
+    Ads-Recoil Right = 0.18
+    Ads-Recoil Decrease = 4.0
+    Ads-1st Shot Multiplier = 1.0
+    Spread FSM Aim = 1.0
+    Spread FSM Hip = 1.0
+    Spread Increase = 0.2
+    Spread Decrease = 5.0
+    ADS - Not Moving = 0.27
+    ADS - Moving = 0.53
+    Hip-Standing-Not Moving = 1.5
+    Hip-Standing-Moving = 2.0
+

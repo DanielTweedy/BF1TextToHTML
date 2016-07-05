@@ -1,0 +1,27 @@
+Lewis Gun
+
+    Max Damage = 21
+    Min Damage = 15
+    Drop-off Start = 20m
+    Drop-off End = 35m
+    Firerate = 480
+    Muzzle Velocty = 740m/s
+    Bullet Drop = -12m/s
+    Mag Size = 47
+    Projectile = British303_Heavy
+    Reload (Empty) = 4.5s
+    Reload (Left) = 3.0s
+    Ads-Recoil Up = 0.28
+    Ads-Recoil Left = 0.2
+    Ads-Recoil Right = 0.2
+    Ads-Recoil Decrease = 6.0
+    Ads-1st Shot Multiplier = 1.5
+    Spread FSM Aim = -6.0
+    Spread FSM Hip = -9.0
+    Spread Increase = -0.18
+    Spread Decrease = 8.12
+    ADS - Not Moving = 0.27
+    ADS - Moving = 0.73
+    Hip-Standing-Not Moving = 2.0
+    Hip-Standing-Moving = 2.5
+
